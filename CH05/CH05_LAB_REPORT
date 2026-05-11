@@ -1,0 +1,26 @@
+# Lab 05: 2436 Hash Table Lab 05
+
+## Student Information
+- **Name:** Leiliany Davila
+- **Date:** 03/01/2026
+
+## Key Concepts
+- **Hash Table:** A data structure that maps keys to values using a hash function to compute an index.
+- **Linear Probing:** A method to handle collisions in hash tables by checking the next available slot.
+
+## What I Learned
+- How to implement a basic hash table.
+The importance of handling collisions using techniques like linear probing.
+
+## Challenges
+- **Collision Handling.** For me this was one of the hardest to understand and apply. As it needed using a techniques like, linear probing. I woud not say this has been solved for me as of now, I will definetly need more practice to fully master! 
+
+## Reflection Questions
+What are the advantages of using a hash table?
+- One advantage of using a hash table is having fast access to data using keys, especially with a good hash function.
+
+How does the hash function affect the performance of a hash table?
+- A hash function affects how evenly keys are distributed across the table, and a good function minimizes collisions.
+
+What are other collision resolution techniques besides linear probing?
+- Other Collision Resolution Techniques: Besides linear probing, you can use separate chaining or quadratic probing.
